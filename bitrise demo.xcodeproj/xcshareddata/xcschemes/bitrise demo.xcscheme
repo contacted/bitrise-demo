@@ -20,6 +20,34 @@
                ReferencedContainer = "container:bitrise demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2ECD3DBC295108CC005BD058"
+               BuildableName = "bitrise demoTests.xctest"
+               BlueprintName = "bitrise demoTests"
+               ReferencedContainer = "container:bitrise demo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2ECD3DC6295108CC005BD058"
+               BuildableName = "bitrise demoUITests.xctest"
+               BlueprintName = "bitrise demoUITests"
+               ReferencedContainer = "container:bitrise demo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
